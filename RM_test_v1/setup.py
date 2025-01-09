@@ -8,7 +8,7 @@ setuptools.setup(
     description="RM_test_v1",
     long_description="RM_test_v1",
     long_description_content_type="text/markdown",
-    url="https://github.com/Bruce9001/RM_test.git",
+    url="https://github.com/Bruce9001/RM_test_v1.git",
     packages=setuptools.find_packages(),
     install_requires=[
         "datetime"
