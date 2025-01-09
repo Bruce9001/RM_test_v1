@@ -1,4 +1,4 @@
-import setuptools
+from setuptools import setup, find_packages
 
 setuptools.setup(
     name="RM_test_v1",
