@@ -11,7 +11,7 @@ setup(
     url="https://github.com/Bruce9001/RM_test_v1.git",
     packages=find_packages(),
     install_requires=[
-        "datetime"
+        "Datetime"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
