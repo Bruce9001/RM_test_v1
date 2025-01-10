@@ -11,7 +11,16 @@ setup(
     url="https://github.com/Bruce9001/RM_test_v1.git",
     packages=find_packages(),
     install_requires=[
-        "Datetime"
+        "Datetime",
+        "pandas",
+        "mysql",
+        "numpy",
+        "dateutil",
+        "psycopg2",
+        "statsmodels",
+        "sklearn",
+        "plotly"
+
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

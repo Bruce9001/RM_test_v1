@@ -3,17 +3,13 @@ import pandas
 import datetime
 from datetime import timedelta
 import psycopg2
-import seaborn
 import numpy
 from dateutil.relativedelta import relativedelta
 from statsmodels.tsa.seasonal import seasonal_decompose
 from sklearn.ensemble import IsolationForest
-from statsmodels.stats.power import TTestIndPower
-import folium
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import matplotlib.pyplot as plt
 
 def get_start_end_dates(year, month):
     # 월의 시작 날짜: 항상 1일
