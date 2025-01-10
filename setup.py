@@ -15,7 +15,7 @@ setup(
         "pandas",
         "mysql",
         "numpy",
-        "dateutil",
+        "python-dateutil",
         "psycopg2",
         "statsmodels",
         "sklearn",
