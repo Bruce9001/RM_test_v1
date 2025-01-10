@@ -18,7 +18,7 @@ setup(
         "python-dateutil",
         "psycopg2",
         "statsmodels",
-        "sklearn",
+        "scikit-learn",
         "plotly"
 
     ],
